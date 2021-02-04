@@ -18,28 +18,28 @@ function App() {
       stripe: "Wheather dashboard"
      },
     {
-      href: "https://samrod777.github.io/Weather-Dashboard-HW6",
-      src: "./assets/weather-dashboard.png",
-      alt: "Screenshot of Weather dashboard app",
-      stripe: "Wheather dashboard"
+      href: "https://samrod777.github.io/Work-Day-Scheduler-HW5/",
+      src: "./assets/Day-scheduler.png",
+      alt: "Screenshot of the Day Scheduler app",
+      stripe: "Workday Scheduler"
      },
      {
-      href: "https://samrod777.github.io/Weather-Dashboard-HW6",
-      src: "./assets/weather-dashboard.png",
-      alt: "Screenshot of Weather dashboard app",
-      stripe: "Wheather dashboard"
+      href: "https://fathomless-retreat-85881.herokuapp.com/",
+      src: "./assets/Eat-da-burger-screenshot.png",
+      alt: "Screenshot of the Eat-da-burger app",
+      stripe: "Eat Da Burger!"
      },
      {
-      href: "https://samrod777.github.io/Weather-Dashboard-HW6",
-      src: "./assets/weather-dashboard.png",
-      alt: "Screenshot of Weather dashboard app",
-      stripe: "Wheather dashboard"
+      href: "https://samrod777.github.io/employee-directory/",
+      src: "./assets/EmpDir.png",
+      alt: "Screenshot of Employee Directory app",
+      stripe: "Employee Directory"
      },
      {
-      href: "https://samrod777.github.io/Weather-Dashboard-HW6",
-      src: "./assets/weather-dashboard.png",
-      alt: "Screenshot of Weather dashboard app",
-      stripe: "Wheather dashboard"
+      href: "https://protected-crag-05436.herokuapp.com",
+      src: "./assets/FitnessTracker.png",
+      alt: "Screenshot of Fitness Tracker dashboard",
+      stripe: "Fitness Tracker"
      }
   ]
   return (
