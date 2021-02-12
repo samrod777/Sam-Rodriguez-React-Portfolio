@@ -1,19 +1,21 @@
 import React from "react";
+import "../components/style.css"
+import SamProfilePic from "../components/assets/SamProfile.JPG"
 
 function About() {
   return (
     <>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-1"></div>
-          <div class="col-sm-10">
-            <div class="card">
-              <div class="card-body">
-                <h2 class="title"> About Me</h2>
+      <div className="container">
+        <div className="row">
+          <div className="col-sm-1"></div>
+          <div className="col-sm-10">
+            <div className="card">
+              <div className="card-body">
+                <h2 className="title"> About Me</h2>
                 <hr />
                 <img
-                  class="photo"
-                  src="../../public/assets/SamProfile2.JPG"
+                  className="photo"
+                  src={SamProfilePic}
                   alt="Sam Rodriguez profile picture"
                 />
                 <p>

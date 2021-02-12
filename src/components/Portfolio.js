@@ -1,7 +1,5 @@
 import React from "react";
-// import "./style.css";
-// import Card from "./Card";
-import projects from "../projects.json";
+import "./style.css";
 import PortfolioCard from "./PortfolioCard";
 
 function Portfolio() {
@@ -15,13 +13,13 @@ function Portfolio() {
               <div className="card-body">
                 <h2 className="title">Portfolio</h2>
                 <hr />
-                <div class="row">
-                  <div className="col-sm-6">
-                    <div className="card border-0">
+                {/* <div className="row"> */}
+                  {/* <div className="col-sm-12"> */}
+                    {/* <div className="card border-0"> */}
                       <PortfolioCard/>
-                    </div>
-                  </div>
-                </div>
+                    {/* </div> */}
+                  {/* </div> */}
+                {/* </div> */}
               </div>
             </div>
           </div>
