@@ -86,11 +86,40 @@ button {
   color: #ffffff;
 }
 
-.page-footer{
+/* .page-footer{
   background-color: rgb(197, 194, 194);
   border-top: 4px solid #4aaaa5;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 10px;
   color: #ffffff;
+} */
+
+footer {
+  background-color: #FDF8F5;
+  color:black;
+  height: 75px;   
+  position:absolute;
+  bottom:0;
+  right:0;
+  left:0;
+  margin-bottom: 0;
+  width: 100%;
 }
 
+.icon-span {
+  margin: 15px;
+}
+
+#linkedin {
+  position: absolute;
+  transition: all .2s ease-in-out; 
+}
+
+#github {
+  position: absolute;
+  transition: all .2s ease-in-out; 
+}
+
+.portColumn{
+    width: 40%;
+}

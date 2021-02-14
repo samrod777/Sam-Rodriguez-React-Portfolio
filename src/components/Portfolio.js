@@ -13,13 +13,13 @@ function Portfolio() {
               <div className="card-body">
                 <h2 className="title">Portfolio</h2>
                 <hr />
-                {/* <div className="row"> */}
-                  {/* <div className="col-sm-12"> */}
-                    {/* <div className="card border-0"> */}
+                <div className="row">
+                  <div className="col-sm-12">
+                    <div className="card border-0">
                       <PortfolioCard/>
-                    {/* </div> */}
-                  {/* </div> */}
-                {/* </div> */}
+                    </div>
+                  </div> 
+                </div>
               </div>
             </div>
           </div>

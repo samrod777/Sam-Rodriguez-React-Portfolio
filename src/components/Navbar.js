@@ -35,9 +35,9 @@ function Navbar() {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <Link
-                to="/portfolio-react/about"
+                to="/about"
                 className={
-                  location.pathname === "/" || "/portfolio-react/about"
+                  location.pathname === "/about"
                     ? "nav-link active"
                     : "nav-link"
                 }
@@ -47,9 +47,9 @@ function Navbar() {
             </li>
             <li className="nav-item">
             <Link
-                to="/portfolio-react/projects"
+                to="/projects"
                 className={
-                  location.pathname === "/portfolio-react/projects"
+                  location.pathname === "/projects"
                     ? "nav-link active"
                     : "nav-link"
                 }
@@ -59,9 +59,9 @@ function Navbar() {
             </li>
             <li className="nav-item">
             <Link
-                to="/portfolio-react/contact"
+                to="/contact"
                 className={
-                  location.pathname === "/portfolio-react/contact"
+                  location.pathname === "/contact"
                     ? "nav-link active"
                     : "nav-link"
                 }
