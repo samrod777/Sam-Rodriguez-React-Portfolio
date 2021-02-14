@@ -17,28 +17,28 @@
     {
       "_id ": 3,
       "href": "https://samrod777.github.io/Work-Day-Scheduler-HW5/",
-      "src": "/assets/Day-scheduler.png",
+      "src": "public/assets/Day-scheduler.png",
       "alt": "Screenshot of the Day Scheduler app",
       "stripe": "Workday Scheduler"
      },
      {
       "_id ": 4,
       "href": "https://fathomless-retreat-85881.herokuapp.com/",
-      "src": "/assets/Eat-da-burger-screenshot.png",
+      "src": "public/assets/Eat-da-burger-screenshot.png",
       "alt": "Screenshot of the Eat-da-burger app",
       "stripe": "Eat Da Burger!"
      },
      {
       "_id ": 5,
       "href": "https://samrod777.github.io/employee-directory/",
-      "src": "/assets/EmpDir.png",
+      "src": "public/assets/EmpDir.png",
       "alt": "Screenshot of Employee Directory app",
       "stripe": "Employee Directory"
      },
      {
       "_id ": 6,
       "href": "https://protected-crag-05436.herokuapp.com",
-      "src": "/assets/FitnessTracker.png",
+      "src": "public/assets/FitnessTracker.png",
       "alt": "Screenshot of Fitness Tracker dashboard",
       "stripe": "Fitness Tracker"
      }
