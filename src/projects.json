@@ -3,14 +3,14 @@
     {
       "_id ": 1,
       "href": "https://samrod777.github.io/Recipe-List-Platform",
-      "src": "public/assets/Project1.png",
+      "src": "/public/assets/Project1.png",
       "alt": "Screenshot of project #1, it shows a martini with ingredients and instructions on how to make it",
       "stripe": "Food & Drinks Recipes"
     },
     {
       "_id ": 2,
       "href": "https://samrod777.github.io/Weather-Dashboard-HW6",
-      "src": "/assets/weather-dashboard.png",
+      "src": "/public/assets/weather-dashboard.png",
       "alt": "Screenshot of Weather dashboard app",
       "stripe": "Wheather dashboard"
      },
