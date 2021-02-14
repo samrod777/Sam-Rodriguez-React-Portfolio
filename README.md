@@ -1,6 +1,6 @@
 # Sam-Rodriguez-Portfolio
 
-![Sam Rodriguez Portfolio Picture](assets/Portfolio-Screenshot-2.png)
+![Sam Rodriguez Portfolio Picture](public/assets/SamRodriguezPortfolio.png)
 
 INTRUDUCTION
 
@@ -22,7 +22,7 @@ APPLICATION URLs:
 
 Deployed application:  https://samrod777.github.io/Sam-Rodriguez-Portfolio/
 
-GitHub repository URL: https://github.com/samrod777/Sam-Rodriguez-Portfolio
+GitHub repository URL: https://github.com/samrod777/Sam-Rodriguez-React-Portfolio
 
 © 2020 Sam Rodriguez. All Rights Reserved.
 
