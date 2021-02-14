@@ -1,6 +1,6 @@
 import React from "react";
 import "../components/style.css"
-import SamProfilePic from "../components/assets/SamProfile.JPG"
+import SamProfilePic from "../assets/SamProfile2.JPG"
 
 function About() {
   return (
