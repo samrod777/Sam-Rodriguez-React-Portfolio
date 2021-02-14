@@ -3,7 +3,7 @@
     {
       "_id ": 1,
       "href": "https://samrod777.github.io/Recipe-List-Platform",
-      "src": "/assets/Project1.png",
+      "src": "public/assets/Project1.png",
       "alt": "Screenshot of project #1, it shows a martini with ingredients and instructions on how to make it",
       "stripe": "Food & Drinks Recipes"
     },
