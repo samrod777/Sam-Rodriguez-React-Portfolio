@@ -20,7 +20,7 @@ USER STEPS
 
 APPLICATION URLs:
 
-Deployed application:  https://samrod777.github.io/Sam-Rodriguez-Portfolio/
+Deployed application:  https://samrod777.github.io/Sam-Rodriguez-React-Portfolio/
 
 GitHub repository URL: https://github.com/samrod777/Sam-Rodriguez-React-Portfolio
 
