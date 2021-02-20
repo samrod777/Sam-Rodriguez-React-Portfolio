@@ -3,10 +3,10 @@ import "./style.css";
 
 function Connect() {
   return (
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-1"></div>
-        <div class="col-sm-10">
+    <div className="container">
+      <div className="row">
+        <div className="col-sm-1"></div>
+        <div className="col-sm-10">
         <div className="card">
           <div className="card-body">
             <h2 className="connect"> Connect with me</h2>
@@ -30,7 +30,7 @@ function Connect() {
           </div>
         </div>
         </div>
-        <div class="col-sm-1"></div>
+        <div className="col-sm-1"></div>
       </div>
     </div>
   );
