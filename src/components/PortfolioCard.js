@@ -1,28 +1,24 @@
 import React from "react";
 import projects from "../projects.json";
+// import image from "../assets/Eat-da-burger-screenshot.png"
 
 function PortfolioCard(props) {
-  const PortfolioData = projects.projects.map((item) =>{
-    return(<div className="col-sm-6">
-      <a href={item.href}>
-        <img
-          className="card-img-top"
-          key={item["_id"]}
-          src={item.src}
-          alt={item.alt}
-        />
-        console.log(src)
-        <div className="stripe">{item.stripe}</div>
-      </a>
-    </div>)
-  })
+  const PortfolioData = projects.projects.map((props) => {
+    console.log(props)
+    
+    return (
+      <div className="col-sm-6" key={props.id}>
 
-  return (
-    <div className="row">
-    {PortfolioData}
-    </div>
-  )
+        <a href={props.href}>
+          <img className="card-img-top" src={props.image} alt={props.alt} />
+          <div className="stripe">{props.stripe}</div>
+        </a>
+      </div>
+      
+    );
+  });
+
+  return <div className="row">{PortfolioData}</div>;
 }
-
 
 export default PortfolioCard;
